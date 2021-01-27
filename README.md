@@ -1,7 +1,7 @@
 # Hey! I'm Guberlo <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-A Computer Science student - Willing to learn, Eager to practice 🚀 <br> I don't like just nerdy-things! 
-I love nature 🏕, art 🎨 and music 🎵
+A Computer Science student - Many things to learn, thousands to practice 🚀 <br> 
+I love nature 🏕, digital-art 🎨, music 🎵 and videogames 🎮
 
 <!-- ![alt text](header-animation-short-loop.gif) -->
 
