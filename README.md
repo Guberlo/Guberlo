@@ -5,7 +5,6 @@ A Computer Science student - Many things to learn, thousands to practice 🚀
 
 <!-- ![alt text](header-animation-short-loop.gif) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=guberlo)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/guberlo)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/guberlo)](https://badges.pufler.dev)
 
