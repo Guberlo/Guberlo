@@ -1,10 +1,12 @@
 # Hey! I'm Guberlo <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 A Computer Science student - Many things to learn, thousands to practice 🚀 
+
+
 <b>I love nature 🏕, digital-art 🎨, music 🎵 and videogames 🎮</b>
 
 <!-- ![alt text](header-animation-short-loop.gif) -->
-
+![Profile Views](https://komarev.com/ghpvc/?username=guberlo)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/guberlo)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/guberlo)](https://badges.pufler.dev)
 
