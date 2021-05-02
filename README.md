@@ -26,7 +26,6 @@ A Computer Science student - Many things to learn, thousands to practice 🚀
 - 🌱 I’m currently learning NodeJS and TensorFlow; 
 - 👯 I’m looking to collaborate on any opensource projects;
 - 💬 Ask me about anything, I am happy to help if I can;
-- ⚡ Fun fact: My cat makes me go crazy 🤪
 
 
 
