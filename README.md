@@ -82,5 +82,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&duration=4000&pause=1000&color=3081e0&center=true&multiline=true&repeat=false&random=false&width=800&height=125&lines=About+Me%3A;I+love+nature%2C+digital+art+and+videogames.;I+always+try+to+squeeze+in+some+time+to+learn+new+things.;I'm+always+looking+to+collaborate+on+open+source+projects." alt="Typing SVG" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width=600>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&duration=4000&pause=1000&color=3081e0&center=true&multiline=true&repeat=false&random=false&width=800&height=125&lines=I+love+nature%2C+digital+art+and+videogames.;I+always+try+to+squeeze+in+some+time+to+learn+new+things.;I'm+always+looking+to+collaborate+on+open+source+projects." alt="Typing SVG" /></a>
 </p>
