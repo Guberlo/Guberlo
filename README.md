@@ -33,10 +33,6 @@
 <br/>
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=FF8735&size=24&center=true&repeat=false&random=false&width=435&lines=Hard+skills%3A" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
   </a>
