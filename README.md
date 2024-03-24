@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Guberlo">
-      <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&duration=2000&color=30ABFF&center=true&pause=100&multiline=true&width=600&height=130&repeat=false&lines=Hi%21+I%27m+Salvo;Computer+Science+Student+%7C+Software+Engineer;DevOps+%7C+Open+Source+Promoter" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&duration=2000&color=2B69FF&center=true&pause=100&multiline=true&width=600&height=130&repeat=false&lines=Hi%21+I%27m+Salvo;Computer+Science+Student+%7C+Software+Engineer;DevOps+%7C+Open+Source+Promoter" alt="Typing SVG" />
   </a>
   <br/>
    <a href="mailto:salasero24@gmail.com">
@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&duration=4000&pause=1000&color=30ABFF&multiline=true&repeat=false&random=false&width=800&height=125&lines=About+Me%3A;I+love+nature%2C+digital+art+and+videogames.;I+always+try+to+squeeze+in+some+time+to+learn+new+things.;I'm+always+looking+to+collaborate+on+open+source+projects." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&duration=4000&pause=1000&color=2B69FF&center=true&multiline=true&repeat=false&random=false&width=800&height=125&lines=About+Me%3A;I+love+nature%2C+digital+art+and+videogames.;I+always+try+to+squeeze+in+some+time+to+learn+new+things.;I'm+always+looking+to+collaborate+on+open+source+projects." alt="Typing SVG" /></a>
 </p>
